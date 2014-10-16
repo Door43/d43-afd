@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[afd:home|Door43 (afd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-afd|d43-afd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-afd/archive/master.zip|d43-afd.zip]]
+
+**Recent Changes**
+{{changes>ns = afd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/afd|Ethnologue data]]
+
